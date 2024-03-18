@@ -1,6 +1,7 @@
 {
     "name": "vitek-dev/exceptions",
     "description": "Shared domain exceptions",
+    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
