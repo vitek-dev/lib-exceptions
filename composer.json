@@ -1,0 +1,20 @@
+{
+    "name": "vitek-dev/exceptions",
+    "description": "Shared domain exceptions",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "VitekDev\\Shared\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Daniel Vitek",
+            "email": "daniel@vitek.dev"
+        }
+    ],
+    "require": {
+        "php": ">=8.2"
+    }
+}
