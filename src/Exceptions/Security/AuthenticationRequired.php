@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace VitekDev\Shared\Exceptions;
+namespace VitekDev\Shared\Exceptions\Security;
 
 use Exception;
 
